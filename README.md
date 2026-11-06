@@ -1,2 +1,2 @@
-# Database-Problem-Solving questions
+# Database-Problem-Solving questions/answers
 This repository contains problems and solutions of the problems related to Database from leetcode.Salary related questions and also limit and offset.
